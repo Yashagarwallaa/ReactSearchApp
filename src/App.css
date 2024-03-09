@@ -54,6 +54,13 @@ input {
    height: 4rem;
 }
 
+
+@media screen and (max-width:1100px){
+  .beer-card{
+   width: 42%;
+   height:40rem
+  }
+}
 @media screen and (max-width:600px){
    .beer-card{
     width: 100%;
